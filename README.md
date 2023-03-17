@@ -16,7 +16,7 @@ Easy to implement in Batch systems where required CPU time is known in advance.
 Impossible to implement in interactive systems where required CPU time is not known.
 The processer should know in advance how much time process will take.
  
- ![My Image](Screenshot2023-03-17230924.png)
+ ![My Image](https://github.com/johhnngeo/rr-and-sjf/blob/main/Screenshot%202023-03-17%20230924.png)
   
 ## Round Robin Scheduling
 Round Robin is the preemptive process scheduling algorithm.
